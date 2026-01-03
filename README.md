@@ -12,8 +12,9 @@
   <!-- About Me -->
   <p>
     Un profesional de la ciberseguridad apasionado por crear cosas nuevas, automatizar tareas y aprender constantemente.
-    <br />
-    <i>"La seguridad no es un producto, es un proceso."</i>
+    <br /><i>"La seguridad no es un producto, es un proceso."</i>
+    <br /><i>"El único sistema seguro es aquel que está apagado... y aún así no estoy seguro."</i>
+    <br /><i>"La inteligencia artificial es una herramienta y es tu copiloto, pero TÚ eres el PILOTO."</i>
   </p>
 
   <br />
@@ -81,12 +82,6 @@
 <hr />
 
 <p align="center">
-  <i>"El único sistema seguro es aquel que está apagado... y aún así no estoy seguro."</i>
-  <br />
-  <br />
-  <i>"La inteligencia artificial es una herramienta y es tu copiloto, pero TÚ eres el PILOTO."</i>
-  <br />
-  <br />
   <a href="https://github.com/TiiZss">
     <img src="https://komarev.com/ghpvc/?username=TiiZss&label=Profile%20Views&color=79C83D&style=flat-square" alt="Profile Views" />
   </a>
