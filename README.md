@@ -56,15 +56,9 @@
 
 <div align="center">
 
-  <a href="https://github.com/TiiZss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiiZss&show_icons=true&theme=radical&hide_border=true" alt="TiiZss GitHub Stats" />
-  </a>
-  
-  <br/> <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiiZss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  <a href="https://github.com/TiiZss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiiZss&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="TiiZss Top Langs" />
-  </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiiZss&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
