@@ -1,33 +1,91 @@
-# ¡Hola! Soy TiiZss 👋
+<div align="center">
+  
+  # ¡Hola, soy TiiZss! 👋
+  
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Ciberseguridad;Desarrollo+%C3%89tico;Automatizaci%C3%B3n" alt="Typing SVG" />
+  </a>
 
-Un profesiona de la ciberseguridad apasionado por crear cosas nuevas y aprender constantemente.
+  <br />
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiizss)
+  <!-- About Me -->
+  <p>
+    Un profesional de la ciberseguridad apasionado por crear cosas nuevas, automatizar tareas y aprender constantemente.
+    <br />
+    <i>"La seguridad no es un producto, es un proceso."</i>
+  </p>
 
----
+  <br />
 
-### 🛠️ Lenguajes y Herramientas
+  <!-- Badges / Socials -->
+  <a href="https://github.com/TiiZss">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.buymeacoffee.com/tiizss">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
 
-<p align="left"> 
+</div>
+
+<hr />
+
+## 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+
+  ### Lenguajes
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+
+  ### Herramientas y Otros
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
----
+</div>
 
-### 📊 Mis Estadísticas en GitHub
+<hr />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiiZss&show_icons=true&theme=radical&hide_border=true" alt="TiiZss GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiiZss&layout=compact&theme=radical&hide_border=true" alt="TiiZss Top Langs" />
-</p>
+## 📊 Estadísticas de GitHub
 
----
+<div align="center">
+
+  <a href="https://github.com/TiiZss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TiiZss&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="TiiZss GitHub Stats" />
+  </a>
+  
+  <br/> <br/>
+
+  <a href="https://github.com/TiiZss">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiiZss&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="TiiZss Top Langs" />
+  </a>
+
+</div>
+
+<br />
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiiZss/TiiZss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiiZss/TiiZss/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TiiZss/TiiZss/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<hr />
 
 <p align="center">
-  <i>Gracias por visitar mi perfil. ¡No dudes en contactarme o invitarme a un café! ☕</i>
+  <i>"El único sistema seguro es aquel que está apagado... y aún así no estoy seguro."</i>
+  <br />
+  <br />
+  <a href="https://github.com/TiiZss">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTiiZss%2FTiiZss&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
 </p>
