@@ -54,9 +54,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiiZss&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![General Stats](https://raw.githubusercontent.com/TiiZss/TiiZss/output/github-metrics.svg)](https://github.com/TiiZss/TiiZss)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiiZss&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://raw.githubusercontent.com/TiiZss/TiiZss/output/github-metrics-langs.svg)](https://github.com/TiiZss/TiiZss)
 
 <br />
 
