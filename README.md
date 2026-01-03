@@ -54,9 +54,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-[![General Stats](https://raw.githubusercontent.com/TiiZss/TiiZss/output/github-metrics.svg)](https://github.com/TiiZss/TiiZss)
+[![General Stats](https://raw.githubusercontent.com/TiiZss/TiiZss/metrics/github-metrics.svg)](https://github.com/TiiZss/TiiZss)
 
-[![Top Langs](https://raw.githubusercontent.com/TiiZss/TiiZss/output/github-metrics-langs.svg)](https://github.com/TiiZss/TiiZss)
+[![Top Langs](https://raw.githubusercontent.com/TiiZss/TiiZss/metrics/github-metrics-langs.svg)](https://github.com/TiiZss/TiiZss)
 
 <br />
 
