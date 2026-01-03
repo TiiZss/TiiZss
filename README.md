@@ -54,11 +54,14 @@
 
 ## 📊 Estadísticas de GitHub
 
-[![General Stats](https://raw.githubusercontent.com/TiiZss/TiiZss/metrics/github-metrics.svg)](https://github.com/TiiZss/TiiZss)
+<div align="center">
+
+  [![General Stats](https://raw.githubusercontent.com/TiiZss/TiiZss/metrics/github-metrics.svg)](https://github.com/TiiZss/TiiZss)
 
 [![Top Langs](https://raw.githubusercontent.com/TiiZss/TiiZss/metrics/github-metrics-langs.svg)](https://github.com/TiiZss/TiiZss)
 
 <br />
+</div>
 
 <!-- Snake Animation -->
 <div align="center">
