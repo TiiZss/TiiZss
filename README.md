@@ -82,6 +82,8 @@
 
 <p align="center">
   <i>"El único sistema seguro es aquel que está apagado... y aún así no estoy seguro."</i>
+  <br />
+  <br />
   <i>"La inteligencia artificial es una herramienta y es tu copiloto, pero TÚ eres el PILOTO."</i>
   <br />
   <br />
